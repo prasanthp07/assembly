@@ -1,0 +1,11 @@
+{
+    "SUCCESS": "Success",
+    "HTTP_SUCCESS": "Success",
+    "NO_RECORDS": "No Records Found",
+    "BAD_PARAMS": "Invalid params",
+    "BAD_REQUEST": "Bad request to server.",
+    "PARAM_MISSING": "Required Parameter missing",
+    "NO_PARAMS": "Parameter Missing !",  
+    "ERR": "!!! Error !!!"
+    
+}
